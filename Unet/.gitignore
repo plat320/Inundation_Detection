@@ -1,0 +1,11 @@
+__pycache__
+2D
+2Dresult
+2Dsave_model
+2DUnet_dp
+3D*
+final*
+result
+runs
+save_model
+segmentation_models_pytorch

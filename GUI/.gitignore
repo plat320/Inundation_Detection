@@ -1,0 +1,8 @@
+__pycache__
+flood
+gt
+model
+ref*
+result
+segmentation_models_pytorch
+white_mask.png
